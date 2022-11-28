@@ -1,0 +1,7 @@
+git status : Vemos los archivos locales que hemos cambiado
+
+git add : agregar al historial de git los cambios
+
+git commit -m 'Mensaje' : confirmamos los cambios con un mensaje
+
+git push : Subir los cambios de manera local a github 
